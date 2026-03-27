@@ -127,7 +127,7 @@ Ask Claude in natural language:
 
 ## 中文
 
-**PYArkMcpServer** 是 [PYArk（盘雨ARK）](https://github.com/antiwar3) 反内核工具包的 **MCP（Model Context Protocol）桥接服务**，让 Claude Desktop 等 AI 工具能够通过标准 MCP 协议直接调用 PYArk 的驱动级系统分析能力。
+**PYArkMcpServer** 是 [PYArk（飘云ARK）](https://github.com/antiwar3) 反内核工具包的 **MCP（Model Context Protocol）桥接服务**，让 Claude Desktop 等 AI 工具能够通过标准 MCP 协议直接调用 PYArk 的驱动级系统分析能力。
 
 ```
 Claude Desktop ──MCP stdio──► PYArkMcpServer.exe ──Named Pipe──► PYArkClient.exe ──IOCTL──► PYArk Driver
